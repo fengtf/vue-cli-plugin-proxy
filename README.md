@@ -9,13 +9,13 @@
 
 ## 安装
 
-`yarn add @ziroom/vue-cli-plugin-proxy -D`
+`yarn add @fengtengfei/vue-cli-plugin-proxy -D`
 
 ## 使用
 
 **生成配置文件**
 
-`vue invoke @ziroom/vue-cli-plugin-proxy`
+`vue invoke @fengtengfei/vue-cli-plugin-proxy`
 
 此操作会在根目录下生成 proxy.config.js 文件
 
