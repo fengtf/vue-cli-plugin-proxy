@@ -1,0 +1,16 @@
+{
+  "name": "@fengtengfei/vue-cli-plugin-proxy",
+  "version": "1.0.0",
+  "description": "代理接口域名，解决本地开发跨域问题",
+  "main": "index.js",
+  "author": "fengtf",
+  "license": "MIT",
+  "private": false,
+  "files": [
+    "generator",
+    "index.js",
+    "config.js",
+    "package.json",
+    "README.md"
+  ]
+}
