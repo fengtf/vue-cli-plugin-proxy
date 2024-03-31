@@ -14,7 +14,7 @@ module.exports = (api) => {
 
     if (!fs.existsSync(proxyPath)) {
       console.log(
-        `【proxy】:未找到${FILE_NAME}文件，请执行"vue invoke @ziroom/vue-cli-plugin-proxy"创建配置文件！`
+        `【proxy】:未找到${FILE_NAME}文件，请执行"vue invoke @fengtf/vue-cli-plugin-proxy"创建配置文件！`
       );
       return;
     }
@@ -22,7 +22,7 @@ module.exports = (api) => {
     console.log('【proxy】:当前代理环境-', env);
 
     console.log(
-      '【proxy】:文档地址-https://gitlab.ziroom.com/design-fe/vue-cli-plugin-proxy/blob/master/README.md'
+      '【proxy】:文档地址-https://github.com/fengtf/vue-cli-plugin-proxy/blob/main/README.md'
     );
 
     // 是否可以执行代理
