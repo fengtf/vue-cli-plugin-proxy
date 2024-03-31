@@ -1,0 +1,15 @@
+{
+  "name": "@fengtf/vue-cli-plugin-proxy",
+  "version": "1.0.0",
+  "description": "代理插件",
+  "main": "index.js",
+  "author": "fengtf",
+  "license": "MIT",
+  "files": [
+    "generator",
+    "index.js",
+    "config.js",
+    "package.json",
+    "README.md"
+  ]
+}
