@@ -87,7 +87,7 @@ proxyMock: [
 ],
 ```
 
-![imgage](https://oss.baibangxy.com/uploads/image/a089e3c0-3cab-4a54-a3f4-bca87e4bc219.jpg)
+![imgage](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a00d858475884161ba24906685daa931~tplv-k3u1fbpfcp-jj-mark:3024:0:0:0:q75.awebp#?w=2162&h=1578&s=321942&e=jpg&b=fefefe)
 
 - projectId: 为项目 ID 上面的`Project ID`
 - projecBaseUrl: mock 项目基础 url，为上面的 example
