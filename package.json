@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "代理插件",
   "main": "index.js",
+  "private": false,
   "author": "fengtf",
   "license": "MIT",
   "files": [
